@@ -1,0 +1,76 @@
++-----------------+               +-------------------+               +-------------------+
+|   Variables_    |<------------->|  Caracteristicas_ |<------------->|    Educacion_     |
++-----------------+               +-------------------+               +-------------------+
+| DIRECTORIO      |               | DIRECTORIO        |               | DIRECTORIO        |
+| SECUENCIA_P     |               | SECUENCIA_P       |               | SECUENCIA_P       |
+| ORDEN           |               | ORDEN             |               | SECUENCIA_ENCUESTA|
+| MPIO            |               | SECUENCIA_ENCUESTA|               | ORDEN             |
+| SEGMENTO        |               | P6020             |               | P6160             |
++-----------------+               | P6040             |               | P8586             |
+                                  | P6087             |               | P8587             |
+                                  | P6088             |               | P6216             |
+                                  +-------------------+               | P5673             |
+                                      |                                +-------------------+
+                                      |
+                                      v
+                               +-------------------+ 
+                               |     Trabajo_      |
+                               +-------------------+
+                               | DIRECTORIO        |
+                               | SECUENCIA_ENCUESTA|
+                               | SECUENCIA_P       |
+                               | ORDEN             |
+                               | FEX_C             |
+                               | P6240             |
+                               | P6435             |
+                               | P6440             |
+                               | P6460             |
+                               | P6460S1           |
+                               | P8624             |
+                               | P6595S1           |
+                               | P6605S1           |
+                               | P1087S4A1         |
+                               | P1087S5A1         |
+                               | P6750             |
+                               | P550              |
+                               | P8632             |
+                               | P8634             |
+                               | P3193S3           |
+                               | P8636             |
+                               | P8636S1           |
+                               | P7250             |
+                               | P7310             |
+                               | P7270S2           |
+                               | P8640             |
+                               | P8640S1           |
+                               | P8654             |
+                               | P8654S1           |
+                               | P421S2            |
+                               | P421S2A1          |
+                               +-------------------+
+                                      |
+                                      v
+                               +-------------------+ 
+                               |    Servicios_     |
+                               +-------------------+
+                               | DIRECTORIO        |
+                               | SECUENCIA_ENCUESTA|
+                               | SECUENCIA_P       |
+                               | ORDEN             |
+                               | I_HOGAR           |
+                               | I_UGASTO          |
+                               | PERCAPITA         |
+                               | I_OU              |
+                               | CANT_PERSONAS_HOGAR|
+                               +-------------------+
+                                      |
+                                      v
+                               +-------------------+
+                               |     Codigos_      |
+                               +-------------------+
+                               | COD_MPIO          |
+                               | NOMB_DEP          |
+                               | NOMB_MUN          |
+                               | LATITUD           |
+                               | LONGITUD          |
+                               +-------------------+
